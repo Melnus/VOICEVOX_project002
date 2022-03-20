@@ -1,0 +1,24 @@
+
+*立ち絵
+九州そら立ち絵/しのびぃ～さん
+https://seiga.nicovideo.jp/seiga/im7616056
+
+*背景素材
+Blenderで作成
+
+*音声素材
+
+赤ちゃんの声
+07065052 :Babies: Girls - Baby girl, restless in cot, early morning, 9 months old - 1984 (8B3, reprocessed)
+https://sound-effects.bbcrewind.co.uk/search?q=07065052
+httpssound-effects.bbcrewind.co.uklicensing
+
+quiet-room-1
+https://sounddictionary.info/ambient-1/
+
+靴をトントン
+https://soundeffect-lab.info/sound/various/various3.html
+
+他
+VSQSE
+https://vsq.co.jp/plus/
