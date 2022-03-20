@@ -1,0 +1,1 @@
+# VOICEVOX_project002
